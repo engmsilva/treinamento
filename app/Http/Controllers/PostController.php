@@ -12,7 +12,7 @@ class PostController extends Controller
 
         $noticia1 = [
             0 => 'Gilmar Mendes acumula maioria das ações contra posse de Lula no STF',
-            1 => '17/03/2016',
+            1 => '17/03/2015',
             2 => 'Estadão',
             3 => 'O Supremo Tribunal Federal (STF) está sendo inundado nesta quinta-feira (17), por ações contra a posse do ex-presidente Luiz Inácio Lula da Silva como chefe da Casa Civil. ',
             4 => 'São, até agora, dez processos, seis dos quais estão sob a relatoria do ministro Gilmar Mendes - considerado o mais crítico ao governo na Suprema Corte.
