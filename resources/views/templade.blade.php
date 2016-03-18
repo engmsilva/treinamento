@@ -107,7 +107,7 @@
 <footer class="blog-footer">
     <p>Todos os direitos reservados.</p>
     <p>
-        <a href="#">Back to top</a>
+        <a href="#">Voltar ao topo</a>
     </p>
 </footer>
 
